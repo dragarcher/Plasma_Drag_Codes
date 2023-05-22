@@ -25,5 +25,4 @@
   - **V3**: This placeholder represents the **maximum percentage** value for the **combined x, y, and z components**. <br>You should replace V3 with the actual maximum percentage value you want to use for the combined output. <br>For example, if you want the combined percentage to range from 0 to 400, you would replace V3 with the value 400.
   - **V4**: This placeholder represents the **maximum percentage** value for the x component. <br>You should replace V4 with the actual **maximum** percentage value you want to use for the **x component's** output.
   - **V5**: This placeholder represents the **maximum percentage** value for the y component. <br>You should replace V5 with the actual **maximum** percentage value you want to use for the **y component's** output.
-  - **V6**: This placeholder represents the **maximum percentage** value for the z component. <br>You should replace V6 with the actual **maximum** percentage value you want to use for the **z component's** output. 
->>>>>>> a5a0cbf5c7335338a9d774c7f95ccc575bd36c2d
+  - **V6**: This placeholder represents the **maximum percentage** value for the z component. <br>You should replace V6 with the actual **maximum** percentage value you want to use for the **z component's** output.
